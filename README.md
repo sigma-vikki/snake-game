@@ -23,5 +23,11 @@ This is a modern, mobile-friendly version of the classic Snake game built with H
 - `ESC` — Reset the game
 - `SPACE` — Pause the game
 
-## 📁 File Structure
+## Click to visit site
+  https://snake-khaki-two.vercel.app/
+
+![snake](https://github.com/user-attachments/assets/040e6e29-bc41-4a7d-9374-4634a67df011)
+
+
+
 
